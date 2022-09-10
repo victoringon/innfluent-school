@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>challenge_2</title>
+	</head>
+
+	<body>
+		<h1><b>por qué estudiar programación?</b></h1>
+		<p>
+			<i>La programación ha venido ganando terreno en las nuevas mecánicas sociales</i> y de desarrollo ya que permite <u><b>nuevas oportunidades</b></u>
+		</p>
+		<h2>algunas razones</h2>
+		<p>
+entre estas podemos encontrar.<pre>flexibilidad en horarios.<pre>intereses en sistemas e informática.<pre><del><b>dinero</b></del>diversificar ingresos
+		</p>
+		<h3>conoce sobre mi</h3>
+		<a href="https://www.instagram.com/victoringon/">
+			<button>Hazme click</button>
+		</a>
+	</body>
+</html>
